@@ -22,9 +22,10 @@
 Weather App is an iOS app built with Swift. You can fetch weather for any location by typing out the city name. App is also capable to fetch the current location of user with due permission and shows the weather for the current location.
 
 
+![weather_app_ss](https://user-images.githubusercontent.com/44581638/150002672-ab639b31-cd49-4669-965d-55aa9221e134.jpg)
 
 
-
+https://user-images.githubusercontent.com/44581638/150002726-5ef230e2-b19c-4199-b362-5e16ad5341e9.mp4
 
 
 
